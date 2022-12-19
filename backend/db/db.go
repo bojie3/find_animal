@@ -14,7 +14,7 @@ func setupDatabase() *sql.DB {
 		host     = "localhost"
 		port     = 5432
 		user     = "postgres"
-		password = "yyzkm61200"
+		password = ""   //change to whatever password
 		dbname   = "animal"
 	)
 	psqlInfo := fmt.Sprintf("host=%s port=%d user=%s "+
