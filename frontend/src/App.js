@@ -1,18 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar';
+import HeroSection from './components/HeroSection';
+import CommentSection from './components/CommentSection';
+
 
 function App() {
   return (
-    <div className="App">
-      <h1>Find Animal</h1>
-      <div>
-        <textarea>Username</textarea>
-        <textarea>Password</textarea>
-      </div>
-      <div>
-        <button>Login</button>
-      </div>
-    </div>
+    <>
+      <Navbar />
+      <HeroSection />
+      <CommentSection />
+    </>
   );
 }
 
