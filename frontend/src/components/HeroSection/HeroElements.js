@@ -10,8 +10,6 @@ export const HeroContainer = styled.div`
     height: 800px;
     position: relative;
     zindex: 1;
-
-    ${'' /* Add :before styles */}
 `;
 
 export const HeroBg = styled.div`
