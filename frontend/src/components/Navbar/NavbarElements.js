@@ -22,7 +22,6 @@ export const NavButtonContainer = styled.div`
     display: flex;
 `;
 
-// TODO: Make this responsive
 const NavButton = styled.button`
     font-size: 1rem;
     font-weight: bold;
