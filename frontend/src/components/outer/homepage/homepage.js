@@ -1,11 +1,14 @@
 import React from 'react';
 import Navbar from "../navbar/navbar"
+import HeroSection from './heroSection';
+import CommentSection from './commentSection';
 
 const Homepage = () => {
     return (
         <div>
             <Navbar />
-            <p>This is the home page</p>
+            <HeroSection />
+            <CommentSection />
         </div>
     )
 }
