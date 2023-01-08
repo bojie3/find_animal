@@ -1,0 +1,22 @@
+.register {
+  background-image: url(https://wallpaperaccess.com/full/1370584.jpg);
+  background-size: cover;
+}
+
+.reg-welcome {
+  padding: 10px;
+}
+
+.reg-username {
+  padding: 10px;
+  width: 300px;
+}
+
+.reg-password {
+  padding: 10px;
+  width: 300px;
+}
+
+.reg-button {
+  padding: 10px;
+}

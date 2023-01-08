@@ -1,0 +1,16 @@
+.navbar-custom {
+  background-color: #3f7eb3;
+}
+
+.custom-button {
+  display: flex;
+  text-align: center;
+  background-color: #6ba7cc;
+  margin: 3px;
+  border-radius: 20px;
+  min-width: 20px;
+}
+
+.image {
+  height: 7vh;
+}

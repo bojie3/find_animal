@@ -1,0 +1,19 @@
+.login {
+  background-image: url(https://wallpaperaccess.com/full/1412430.jpg);
+  height: 100%;
+  background-size: cover;
+}
+
+.navbar-username {
+  padding: 10px;
+  width: 300px;
+}
+
+.navbar-password {
+  padding: 10px;
+  width: 300px;
+}
+
+.navbar-button {
+  padding: 10px;
+}
